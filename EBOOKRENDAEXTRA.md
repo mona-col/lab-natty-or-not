@@ -18,4 +18,4 @@ Utilizei o "ChatGPT" para levantar ideias sobre renda extra na internet para mul
 ## 🚀 Resultados
 O e-book apresenta um conteúdo prático com dicas de como as mulheres podem mudar sua realidade financeira realizando renda extra na internet
 
-
+https://gamma.app/docs/Como-Fazer-Renda-Extra-na-Internet--45nl9n8c4b3l5vg
