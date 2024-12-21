@@ -6,10 +6,10 @@
 # E-book: Como Fazer Renda Extra na Internet - Guia Prático para Mulheres
 
 ## 📒 Descrição
-Este e-book com 6 páginas é um guia prático para mulheres com ideias de como fazer renda estra na internet
+Este e-book com 6 páginas é um guia prático para mulheres com ideias de como fazer renda extra na internet
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para roteirização;
+IA Generativa ChatGPT para criar ideias e roteirização;
 IA GAMMA para diagramar e criar a arte visual do e-book
 
 ## 🧐 Processo de Criação
